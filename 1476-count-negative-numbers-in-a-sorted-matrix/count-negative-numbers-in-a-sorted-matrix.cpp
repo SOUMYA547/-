@@ -3,7 +3,6 @@ public:
     int countNegatives(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-
         int r = 0;
         int c = m - 1;
         int count = 0;
