@@ -15,7 +15,7 @@ public:
                 int x2 = points[j][0];
                 int y2 = points[j][1];
 
-                if( x1 == x2 && y1 == y2){
+                if(x1 == x2 && y1 == y2){
                     duplicate++;
                     continue;
                 }
