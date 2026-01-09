@@ -5,18 +5,22 @@
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SOUMYA547/-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SOUMYA547/-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SOUMYA547/-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SOUMYA547/-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
@@ -46,4 +50,5 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
