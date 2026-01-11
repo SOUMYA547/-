@@ -42,11 +42,13 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 ## Matrix
 |  |
