@@ -32,6 +32,7 @@
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
@@ -44,12 +45,14 @@
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
 | ------- |
