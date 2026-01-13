@@ -31,6 +31,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
