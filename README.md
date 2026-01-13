@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
@@ -81,10 +82,15 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
