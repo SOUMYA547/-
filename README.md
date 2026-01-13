@@ -34,6 +34,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
