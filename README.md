@@ -37,6 +37,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,8 +92,17 @@
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
