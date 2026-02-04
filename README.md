@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
 ## Backtracking
