@@ -33,6 +33,7 @@
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -125,6 +126,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
