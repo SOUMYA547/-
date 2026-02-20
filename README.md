@@ -53,6 +53,7 @@
 | [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/SOUMYA547/-/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
