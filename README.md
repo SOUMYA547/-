@@ -33,6 +33,7 @@
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
@@ -54,6 +55,7 @@
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/SOUMYA547/-/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/SOUMYA547/-/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -133,4 +135,12 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
