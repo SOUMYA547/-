@@ -38,6 +38,7 @@
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1390-four-divisors](https://github.com/SOUMYA547/-/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SOUMYA547/-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -60,6 +61,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1390-four-divisors](https://github.com/SOUMYA547/-/tree/master/1390-four-divisors) |
 ## Geometry
 |  |
 | ------- |
