@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 ## Enumeration
 |  |
 | ------- |
