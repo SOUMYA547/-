@@ -42,6 +42,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SOUMYA547/-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOUMYA547/-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
