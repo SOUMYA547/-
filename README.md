@@ -44,6 +44,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SOUMYA547/-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOUMYA547/-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
 ## Backtracking
@@ -147,6 +149,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
 |  |
 | ------- |
