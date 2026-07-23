@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -131,11 +133,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
