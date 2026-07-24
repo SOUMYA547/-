@@ -53,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -121,6 +122,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 ## Segment Tree
 |  |
@@ -139,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
