@@ -173,4 +173,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
