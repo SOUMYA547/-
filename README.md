@@ -47,6 +47,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOUMYA547/-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SOUMYA547/-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
@@ -112,6 +113,7 @@
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/SOUMYA547/-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SOUMYA547/-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
 | ------- |
