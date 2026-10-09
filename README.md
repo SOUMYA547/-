@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/SOUMYA547/-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -117,6 +119,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
