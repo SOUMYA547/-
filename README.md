@@ -38,6 +38,7 @@
 | [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
+| [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
 |  |
@@ -190,4 +192,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0021-merge-two-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
