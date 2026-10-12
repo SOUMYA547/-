@@ -39,6 +39,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SOUMYA547/-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -93,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SOUMYA547/-/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SOUMYA547/-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/SOUMYA547/-/tree/master/1661-average-time-of-process-per-machine) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SOUMYA547/-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
