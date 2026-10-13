@@ -50,6 +50,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOUMYA547/-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SOUMYA547/-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
@@ -127,6 +128,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3453-separate-squares-i](https://github.com/SOUMYA547/-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SOUMYA547/-/tree/master/3454-separate-squares-ii) |
 ## Backtracking
@@ -147,6 +149,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## String
 |  |
@@ -162,6 +165,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SOUMYA547/-/tree/master/0605-can-place-flowers) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,4 +214,9 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SOUMYA547/-/tree/master/0560-subarray-sum-equals-k) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+## Sliding Window
+|  |
+| ------- |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 <!---LeetCode Topics End-->
