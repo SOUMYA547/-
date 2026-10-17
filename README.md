@@ -48,6 +48,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SOUMYA547/-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOUMYA547/-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -62,6 +63,7 @@
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/SOUMYA547/-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SOUMYA547/-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -149,6 +152,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SOUMYA547/-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## String
@@ -171,6 +175,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
 |  |
@@ -219,4 +224,12 @@
 |  |
 | ------- |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
