@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUMYA547/-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUMYA547/-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SOUMYA547/-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
