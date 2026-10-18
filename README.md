@@ -17,6 +17,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SOUMYA547/-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SOUMYA547/-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -37,6 +38,7 @@
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
+| [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
@@ -62,6 +64,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SOUMYA547/-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
@@ -210,10 +213,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
 ## Database
 |  |
