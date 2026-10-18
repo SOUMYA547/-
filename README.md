@@ -95,6 +95,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYA547/-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -160,6 +161,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYA547/-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -225,6 +227,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYA547/-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Meet in the Middle
 |  |
