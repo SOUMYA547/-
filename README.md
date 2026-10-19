@@ -33,6 +33,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUMYA547/-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/SOUMYA547/-/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/SOUMYA547/-/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SOUMYA547/-/tree/master/0518-coin-change-ii) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/SOUMYA547/-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/SOUMYA547/-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
