@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SOUMYA547/-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/SOUMYA547/-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -245,4 +247,16 @@
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
