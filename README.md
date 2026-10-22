@@ -38,6 +38,7 @@
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
@@ -103,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYA547/-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOUMYA547/-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SOUMYA547/-/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -122,6 +124,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SOUMYA547/-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SOUMYA547/-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOUMYA547/-/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/SOUMYA547/-/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -205,6 +209,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -259,4 +264,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
