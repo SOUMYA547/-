@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SOUMYA547/-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SOUMYA547/-/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
@@ -130,6 +131,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SOUMYA547/-/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SOUMYA547/-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SOUMYA547/-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
@@ -175,6 +177,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYA547/-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/SOUMYA547/-/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -203,6 +206,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SOUMYA547/-/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/SOUMYA547/-/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOUMYA547/-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/SOUMYA547/-/tree/master/3498-reverse-degree-of-a-string) |
