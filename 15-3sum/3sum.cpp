@@ -24,7 +24,7 @@ public:
                         r--;
                     }
                 }
-                else if( s < 0){
+                else if(s < 0){
                     l++;
                 }
                 else{
