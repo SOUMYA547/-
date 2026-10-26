@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA547/-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/SOUMYA547/-/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUMYA547/-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SOUMYA547/-/tree/master/0053-maximum-subarray) |
@@ -165,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SOUMYA547/-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUMYA547/-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -192,6 +194,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SOUMYA547/-/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/SOUMYA547/-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
