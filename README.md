@@ -178,6 +178,7 @@
 | [0022-generate-parentheses](https://github.com/SOUMYA547/-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SOUMYA547/-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SOUMYA547/-/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/SOUMYA547/-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -191,6 +192,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/SOUMYA547/-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 | [1755-closest-subsequence-sum](https://github.com/SOUMYA547/-/tree/master/1755-closest-subsequence-sum) |
