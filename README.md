@@ -89,6 +89,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/SOUMYA547/-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SOUMYA547/-/tree/master/1390-four-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOUMYA547/-/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/SOUMYA547/-/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SOUMYA547/-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Geometry
 |  |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/SOUMYA547/-/tree/master/3001-minimum-moves-to-capture-the-queen) |
 ## Number Theory
 |  |
 | ------- |
