@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/SOUMYA547/-/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0067-add-binary](https://github.com/SOUMYA547/-/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SOUMYA547/-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SOUMYA547/-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/SOUMYA547/-/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SOUMYA547/-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SOUMYA547/-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/SOUMYA547/-/tree/master/3498-reverse-degree-of-a-string) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYA547/-/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/SOUMYA547/-/tree/master/0394-decode-string) |
 ## Knapsack Problem
 |  |
 | ------- |
