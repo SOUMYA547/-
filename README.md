@@ -11,12 +11,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SOUMYA547/-/tree/master/0200-number-of-islands) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SOUMYA547/-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SOUMYA547/-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SOUMYA547/-/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SOUMYA547/-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SOUMYA547/-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -40,6 +42,7 @@
 | [0137-single-number-ii](https://github.com/SOUMYA547/-/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SOUMYA547/-/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/SOUMYA547/-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SOUMYA547/-/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/SOUMYA547/-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SOUMYA547/-/tree/master/0334-increasing-triplet-subsequence) |
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SOUMYA547/-/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/SOUMYA547/-/tree/master/0200-number-of-islands) |
 | [0883-projection-area-of-3d-shapes](https://github.com/SOUMYA547/-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOUMYA547/-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SOUMYA547/-/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SOUMYA547/-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
